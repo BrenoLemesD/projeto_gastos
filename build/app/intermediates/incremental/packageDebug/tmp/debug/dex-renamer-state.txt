@@ -1,0 +1,4 @@
+#Wed Aug 16 22:45:25 BRT 2023
+base.0=C\:\\Users\\BrenoLemes\\Documents\\CursoDart_Flutter\\curso_flutter\\projeto_gastos\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
